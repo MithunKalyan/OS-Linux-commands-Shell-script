@@ -2,8 +2,8 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-#### Developed By:REVANTH.P
-#### Reg.NO: 212223040143
+#### Developed By:Pagadala Mithun Kalyan
+#### Reg.NO: 212223040142
 # AIM:
 To practice Linux Commands and Shell Scripting
 
